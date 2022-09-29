@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoD3223
 - 👀 I’m interested in programming, would to love to learn and use machine learning and AI someday
-- 🌱 I’m currently learning basic C#
-- 💞️ I’m looking to collaborate on nothing right now.
+- 🌱 I’m currently learning basic C# and C++
+- 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me, send a message on GitHub
 
 <!---
