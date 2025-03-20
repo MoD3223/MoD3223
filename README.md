@@ -1,29 +1,31 @@
 # Hi there! I'm Patryk 👋
 
-Welcome to my GitHub profile! I'm a student passionate about learning and exploring the world of programming and technology.
+Welcome to my GitHub profile! I'm a Computer Science graduate passionate about programming, software development, and continuous learning.
 
-## About Me
+##💻 About Me
 
-- 🎓 Currently pursuing CS degree
-- 🌱 I'm enthusiastic about learning C# and creating useful applications for people
-- 💡 Always excited to dive into new projects and challenges
-- 📫 You can reach me at LinkedIn below
+-🎓 Computer Science graduate with a strong interest in backend development and software engineering
+-🌱 Currently exploring C#, Java, and improving my skills in building efficient and practical applications
+-💡 Always eager to take on new challenges and learn new technologies
+-📫 You can reach me via LinkedIn at the link below!
 
-## My Skills
+##🛠️ Skills
 
-- Programming languages: C#, PL/SQL
-- Tools and technologies: Visual Studio, ReSharper
-- Areas of interest: Machine learning, Desktop application, Software Development
+- Programming languages: C#, Java, SQL
+- Technologies & Tools: .NET, Visual Studio, ReSharper, Git, SQL Developer, Microsoft SQL Server
+- Areas of Interest: Backend development, REST APIs, desktop applications, software architecture
 
-## Projects
+##🚀 Projects
 
-Feel free to explore more of my projects in the repositories section! However please note that they are made mainly for my studies and don't represent my full capabilities!
+Feel free to explore my repositories!
+Most of them are hobby projects developed during my free time to practice programming and learn new technologies.
+They reflect my passion for coding and continuous improvement.
 
-## Let's Connect
+##🤝 Let's Connect
 
-I'm always open to connecting with fellow students and developers. You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/patryk-marchewka-092905280/)
+I'm always open to networking, collaboration, or discussing software development.
+Find me on:
+- [LinkedIn](https://www.linkedin.com/in/patryk-marchewka/)
 
 
 <!---
